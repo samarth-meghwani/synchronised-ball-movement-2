@@ -1,2 +1,2 @@
-# synchronised-ball-movement-2
-blah
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
